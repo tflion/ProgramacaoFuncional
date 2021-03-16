@@ -1,0 +1,13 @@
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\bin\Debug\netcoreapp3.1\programacao_orientada_funcao.exe
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\bin\Debug\netcoreapp3.1\programacao_orientada_funcao.deps.json
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\bin\Debug\netcoreapp3.1\programacao_orientada_funcao.runtimeconfig.json
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\bin\Debug\netcoreapp3.1\programacao_orientada_funcao.runtimeconfig.dev.json
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\bin\Debug\netcoreapp3.1\programacao_orientada_funcao.dll
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\bin\Debug\netcoreapp3.1\programacao_orientada_funcao.pdb
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.csprojAssemblyReference.cache
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.AssemblyInfoInputs.cache
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.AssemblyInfo.cs
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.csproj.CoreCompileInputs.cache
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.dll
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.pdb
+C:\Users\Leao\source\repos\programacao_orientada_funcao\programacao_orientada_funcao\obj\Debug\netcoreapp3.1\programacao_orientada_funcao.genruntimeconfig.cache
